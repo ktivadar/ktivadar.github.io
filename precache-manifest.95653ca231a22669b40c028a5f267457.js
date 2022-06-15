@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "890ed897cd2a94dfd6510293f777438f",
+    "revision": "8ebda005716eb969130483b06aed13f0",
     "url": "/index.html"
   },
   {
-    "revision": "baef96602137b403ed5c",
+    "revision": "c6cfac8412a85554b7ce",
     "url": "/static/css/3.3a26ebde.chunk.css"
   },
   {
-    "revision": "c4e8bc6d794c7e5edc72",
+    "revision": "3ceb470a339bfae6681d",
     "url": "/static/css/4.21259c32.chunk.css"
   },
   {
-    "revision": "78f37957c9e0f341d1b2",
+    "revision": "64e7e2aacdcc5f4d47b6",
     "url": "/static/css/main.9f520e24.chunk.css"
   },
   {
-    "revision": "6b008858abfa461b78a7",
-    "url": "/static/js/2.4bb3ef60.chunk.js"
+    "revision": "2c4c059d4e38d9ec1014",
+    "url": "/static/js/2.9fe945eb.chunk.js"
   },
   {
     "revision": "0a6d64cd3b49be6a14afdf21fa7c6d43",
-    "url": "/static/js/2.4bb3ef60.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.9fe945eb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "baef96602137b403ed5c",
-    "url": "/static/js/3.f474e105.chunk.js"
+    "revision": "c6cfac8412a85554b7ce",
+    "url": "/static/js/3.c88e783a.chunk.js"
   },
   {
-    "revision": "c4e8bc6d794c7e5edc72",
-    "url": "/static/js/4.f8e7283c.chunk.js"
+    "revision": "3ceb470a339bfae6681d",
+    "url": "/static/js/4.eff23cb3.chunk.js"
   },
   {
-    "revision": "78f37957c9e0f341d1b2",
-    "url": "/static/js/main.6ff62933.chunk.js"
+    "revision": "64e7e2aacdcc5f4d47b6",
+    "url": "/static/js/main.136ea299.chunk.js"
   },
   {
-    "revision": "cb001ba757555312661b",
-    "url": "/static/js/runtime-main.e2ee67b4.js"
+    "revision": "d123ceed133fcdbfc39d",
+    "url": "/static/js/runtime-main.f1c1bfb9.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -72,12 +72,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/googleAssistantLogo.e79c6392.webp"
   },
   {
-    "revision": "52be31441c8cf8a8a16bd7a228d428bf",
-    "url": "/static/media/manOnTable.52be3144.svg"
-  },
-  {
     "revision": "829ad0a1deef4d7295adfecdf12df2be",
     "url": "/static/media/nextuLogo.829ad0a1.webp"
+  },
+  {
+    "revision": "7da869adda20ab07ca5f24b9504fd414",
+    "url": "/static/media/profilom_png.7da869ad.png"
   },
   {
     "revision": "ee62cb58630f29a6e6201b49d4c03728",
